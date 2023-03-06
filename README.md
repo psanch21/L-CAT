@@ -1,26 +1,14 @@
-# Learnable Graph Convolutional Attention Networks
+# Official Implementation Moved to New Repository
 
-This is the official Pytorch implementation of CAT and L-CAT.
+We've moved the official implementation of L-CAT to a new repository.
 
+Please update your references accordingly.
 
-Coming Soon!!!
+New repository link: https://github.com/psanch21/LCAT
 
-
-## Citing
-
-If you use CAT or L-CAT, consider citing our paper
-
-```bibtex
-@article{...,
-  title={Learnable Graph Convolutional Attention Networks},
-  author={...},
-  journal={...},
-  year={2022}
-}
-```
 
 
 
 ## Contact
 
-For further information: <a href="mailto:psanchez@tue.mpg.de">psanchez@tue.mpg.de</a>
+If you have any questions or concerns, feel free to reach out to us at <a href="mailto:psanchez@tue.mpg.de">psanchez@tue.mpg.de</a>.
